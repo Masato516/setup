@@ -18,7 +18,7 @@ cask "google-japanese-ime"
 cask "visual-studio-code"
 cask "wireshark", args: { appdir: "/Applications" }
 cask "zoom", args: { appdir: "/Applications" }
-cask "clipy
+cask "clipy"
 cask "iterm2"
 cask "appcleaner"
 mas "Bitwarden", id: 1352778147
