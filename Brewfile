@@ -7,7 +7,10 @@ brew "mas"
 brew "slack"
 brew "openapi-generator"
 brew "openconnect"
+brew "neovim"
 brew "tmux"
+brew "autojump"
+brew "fzf"
 cask "authy", args: { appdir: "/Applications" }
 cask "docker"
 cask "google-drive", args: { appdir: "/Applications" }
