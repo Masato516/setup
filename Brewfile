@@ -11,6 +11,7 @@ brew "neovim"
 brew "tmux"
 brew "autojump"
 brew "fzf"
+brew "ffmpeg"
 cask "authy", args: { appdir: "/Applications" }
 cask "docker"
 cask "google-drive", args: { appdir: "/Applications" }
